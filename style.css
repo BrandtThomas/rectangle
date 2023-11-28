@@ -1,0 +1,28 @@
+.rectangle1{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+}
+.rectangle2{
+    background-color: Blue;
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+}
+.rectangle3{
+    background-color: Yellow;
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+}
+.rectangle4{
+    background-color: Green;
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+}
+
+.rectangleGris{
+    background-color: grey !important;
+}
